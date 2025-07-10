@@ -22,12 +22,12 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to us at vaibhavsingh1015@gmail.com
+If you have any feedback, please reach out to us at devkinha15@gmail.com
 
 
 ## Authors
 
-- [@vaibhavsingh](https://github.com/vaibhavsingh1015)
+- [@DevKinha](https://github.com/Devkinha)
 
 
 
